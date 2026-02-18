@@ -1,0 +1,5 @@
+# Runtime — zero external dependencies
+# All functionality runs on Python 3.9+ stdlib only
+
+# Development
+pytest>=7.0
