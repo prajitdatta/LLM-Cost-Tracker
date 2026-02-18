@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💸 llm-cost-tracker
+# 💸 LLM Cost Tracker
 
 ### Track, analyse, and control your LLM API spending across every major provider
 
